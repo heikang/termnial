@@ -1,0 +1,2 @@
+# termnial
+termnial config
